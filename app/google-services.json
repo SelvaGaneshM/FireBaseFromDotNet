@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "743879860661",
+    "firebase_url": "https://testingdornwt.firebaseio.com",
+    "project_id": "testingdornwt",
+    "storage_bucket": "testingdornwt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743879860661:android:8c91ab8f1a5416d2",
+        "android_client_info": {
+          "package_name": "com.influx.firebasefromdotnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743879860661-r4c4qdqec7ggt04npb2k2k4fsq0jtjae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.influx.firebasefromdotnet",
+            "certificate_hash": "5768554CF413BBEE1355D378A202B4FF31B95522"
+          }
+        },
+        {
+          "client_id": "743879860661-amjb4rucnroooag58dmh9fkm1d9bu596.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNwUR0zofxaHJMB3yTpfwaDeK6NBEkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743879860661-amjb4rucnroooag58dmh9fkm1d9bu596.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
